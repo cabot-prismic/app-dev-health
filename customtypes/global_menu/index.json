@@ -1,0 +1,56 @@
+{
+  "id": "global_menu",
+  "label": "Global Menu",
+  "format": "custom",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "company_name": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Company Name",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "company_logo": {
+        "type": "Image",
+        "config": {
+          "label": "Company Logo",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "header_menu_label": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Header Menu Label",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "header_menu_link": {
+        "type": "Link",
+        "config": {
+          "label": "Header Menu Link",
+          "placeholder": "",
+          "select": null
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "navigation_item": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Nostrud adipisicing velit id magna."
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Lorem irure nulla ea et ex quis et et ipsum. Tempor cillum culpa do nisi occaecat."
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+					"width": 4172,
+					"height": 4000
+				},
+				"url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+				"width": 4172,
+				"height": 4000,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"socialmediaicons",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://google.com"
+							}
+						}
+					],
+					[
+						"categoryname",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Voluptate ad irure veniam non aute veniam in pariatur aute aliquip ea sint et non. Excepteur velit aliqua sit consectetur incididunt fugiat consectetur proident occaecat commodo ad do. Irure do ullamco consequat enim tempor ad fugiat incididunt ut aliquip sit id nulla aliquip labore."
+									}
+								}
+							]
+						}
+					],
+					[
+						"blocktitle",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Excepteur est ea quis elit reprehenderit est commodo aliqua culpa labore ex dolore nostrud. Enim officia proident ex ad labore quis tempor laborum et officia nulla id laboris laborum. Veniam qui cillum id adipisicing nulla qui minim."
+									}
+								}
+							]
+						}
+					],
+					[
+						"blockdescription",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Qui minim nulla quis nulla."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]

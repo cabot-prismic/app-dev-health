@@ -1,0 +1,58 @@
+{
+  "id": "logos_block",
+  "type": "SharedSlice",
+  "name": "LogosBlock",
+  "description": "LogosBlock",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "sub_title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Sub Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "block_background": {
+          "type": "Select",
+          "config": {
+            "label": "Block background",
+            "placeholder": "Choose the background color of the block",
+            "options": [
+              "WhiteTheme",
+              "GrayTheme"
+            ],
+            "default_value": "WhiteTheme"
+          }
+        }
+      },
+      "items": {
+        "client_logo": {
+          "type": "Image",
+          "config": {
+            "label": "Client Logo",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sticky_bar",
+  "type": "SharedSlice",
+  "name": "StickyBar",
+  "description": "StickyBar",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "uid": {
+          "type": "StructuredText",
+          "config": {
+            "label": "UID",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        }
+      },
+      "items": {
+        "menu_label": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Menu Label",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "scroll_to_block_id": {
+          "type": "Select",
+          "config": {
+            "label": "Scroll to Block Id",
+            "placeholder": "Select the ID of the block to navigate to that block.",
+            "options": [
+              "aboutOveriewSection",
+              "overiewSection"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

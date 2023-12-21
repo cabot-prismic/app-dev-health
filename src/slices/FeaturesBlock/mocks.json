@@ -1,0 +1,110 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ut aute dolor nisi aliqua ea magna veniam amet quis cupidatat eiusmod. Exercitation veniam proident id qui consequat sint labore minim magna incididunt sit in laborum ullamco aute."
+						}
+					}
+				]
+			},
+			"sub_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Laborum dolor pariatur commodo Lorem fugiat labore qui veniam Lorem sint voluptate labore officia et cillum."
+						}
+					}
+				]
+			},
+			"block_background": {
+				"__TYPE__": "FieldContent",
+				"value": "WhiteTheme",
+				"type": "Select"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Cillum magna amet consectetur anim Lorem duis dolor Lorem. Cillum minim proident et consequat duis qui qui cupidatat cillum laboris amet consectetur eu consectetur."
+									}
+								}
+							]
+						}
+					],
+					[
+						"sub_title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Est sit dolor culpa sint est minim ea ea id nostrud. Amet commodo esse irure nulla fugiat ex irure sit enim magna ipsum. Magna dolor non fugiat et dolor ut velit."
+									}
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+								"width": 3024,
+								"height": 3778
+							},
+							"url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+							"width": 3024,
+							"height": 3778,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Officia ipsum duis aliqua deserunt nisi velit sint officia irure culpa et veniam nulla proident adipisicing. Cillum laboris incididunt eiusmod ipsum enim labore aute. Ipsum ex eu elit esse cillum sit esse."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]

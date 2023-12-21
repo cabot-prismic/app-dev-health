@@ -1,0 +1,105 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Elit elit anim sit laboris commodo commodo deserunt consequat aliqua sunt id occaecat."
+						}
+					}
+				]
+			},
+			"sub_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim officia qui aliqua aliquip qui eu proident elit. Ipsum anim consequat nisi qui nisi irure dolor amet ea. Et sit voluptate exercitation esse tempor."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"category",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Ipsum dolore velit exercitation commodo. Velit ea nostrud eu eu eu."
+									}
+								}
+							]
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Nulla est est sint mollit voluptate."
+									}
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+								"width": 2545,
+								"height": 2545
+							},
+							"url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+							"width": 2545,
+							"height": 2545,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Eu tempor laborum deserunt est tempor cupidatat consequat sint occaecat. Eu eiusmod ut cillum exercitation exercitation Lorem fugiat. Ex enim sunt anim nisi nisi elit do occaecat."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]

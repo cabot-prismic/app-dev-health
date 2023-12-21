@@ -1,0 +1,49 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"footer_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Occaecat consectetur do sit veniam eiusmod aliquip. Cupidatat laboris exercitation nisi adipisicing commodo labore commodo cupidatat incididunt commodo ea."
+						}
+					}
+				]
+			},
+			"footer_sub_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Consectetur veniam eiusmod proident in. Esse aute do reprehenderit. Sint nulla commodo quis eiusmod deserunt."
+						}
+					}
+				]
+			},
+			"button_label": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Dolore tempor sint id dolor sint do veniam ipsum ad non ipsum minim. Duis ut consequat cupidatat amet ex mollit dolore id do id Lorem culpa magna elit."
+						}
+					}
+				]
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			}
+		},
+		"items": []
+	}
+]

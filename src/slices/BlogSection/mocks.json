@@ -1,0 +1,212 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ullamco eiusmod dolore commodo et voluptate. Culpa excepteur ea eiusmod eiusmod adipisicing occaecat incididunt ut quis minim ad incididunt."
+						}
+					}
+				]
+			},
+			"sub_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Veniam fugiat excepteur occaecat quis qui ad et aute anim ipsum esse elit culpa. Pariatur eiusmod cillum adipisicing enim consequat voluptate ipsum nulla."
+						}
+					}
+				]
+			},
+			"blogs_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Nulla aute quis est occaecat velit. Id anim magna deserunt labore cillum ea do mollit tempor proident nisi quis. Labore dolore pariatur veniam eiusmod duis ullamco sit dolor adipisicing esse fugiat."
+									}
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Consequat fugiat occaecat elit aute in ad. Reprehenderit aliqua adipisicing eu fugiat aute enim dolor duis laboris anim non enim aliquip tempor laboris."
+									}
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+								"width": 12288,
+								"height": 16384
+							},
+							"url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+							"width": 12288,
+							"height": 16384,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"link_to_detail_page",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "https://prismic.io"
+							}
+						}
+					],
+					[
+						"category",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Exercitation nostrud cupidatat eu duis. Elit velit sunt irure et ipsum proident exercitation nostrud sint duis proident Lorem ex occaecat. Excepteur laborum proident culpa culpa."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "blogItems",
+		"primary": {},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Non eiusmod nisi eu cupidatat nulla duis. Culpa cupidatat sunt nostrud tempor irure."
+									}
+								}
+							]
+						}
+					],
+					[
+						"category",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Nisi quis nisi et laborum consectetur occaecat Lorem ipsum nostrud sit exercitation sunt do quis do. Consequat sint deserunt laboris in cupidatat."
+									}
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Id sint veniam minim nulla ullamco nisi laborum dolore voluptate veniam exercitation aliqua mollit proident. Deserunt est esse reprehenderit ex dolore ea excepteur voluptate."
+									}
+								}
+							]
+						}
+					],
+					[
+						"image",
+						{
+							"origin": {
+								"id": "main",
+								"url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+								"width": 3199,
+								"height": 3199
+							},
+							"url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+							"width": 3199,
+							"height": 3199,
+							"edit": {
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								},
+								"background": "transparent"
+							},
+							"credits": null,
+							"alt": null,
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					],
+					[
+						"link_to_detail_page",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "https://prismic.io"
+							}
+						}
+					]
+				]
+			}
+		]
+	}
+]

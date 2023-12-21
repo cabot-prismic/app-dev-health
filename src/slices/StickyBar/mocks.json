@@ -1,0 +1,48 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"uid": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex sit Lorem do."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"menu_label",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Dolore duis aute elit proident voluptate officia ad sit."
+									}
+								}
+							]
+						}
+					],
+					[
+						"scroll_to_block_id",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "aboutOveriewSection",
+							"type": "Select"
+						}
+					]
+				]
+			}
+		]
+	}
+]
